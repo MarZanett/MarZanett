@@ -1,11 +1,12 @@
 ### Hi there 👋 
 
-I'm a Full Stack Developer from Buenos Aires - Argentina
-🔭 I’m currently working on a new App with my team !
-🌱 I’m currently learning about Typescript !
-👯 I’m looking to collaborate with any other developers around the world in any kind of project!
-⚡ Fun fact: I´m passionate about video games and a animal lover 🐶🐱🐷 !
-Tech Stack
+## I'm a Full Stack Developer from Buenos Aires - Argentina
+- 🔭 I’m currently working on a new App with my team !
+- 🌱 I’m currently learning about Typescript !
+- 👯 I’m looking to collaborate with any other developers around the world in any kind of project!
+- ⚡ Fun fact: I´m passionate about video games and a animal lover 🐶🐱🐷 !
+
+## Tech Stack
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
@@ -21,7 +22,7 @@ Tech Stack
   <img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p
 
-📫 How to reach me:
+## 📫 How to reach me:
 <p>
       <a href="https://www.linkedin.com/in/marzanett/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="MarZanett LinkedIn Profile" height="40" width="40">
