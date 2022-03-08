@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer from Buenos Aires - Argentina
 - 🔭 I’m currently working on a new App with my team !
-- 🌱 I’m currently learning about Typescript !
+- 🌱 I’m currently learning about Typescript and Prisma !
 - 👯 I’m looking to collaborate with any other developers around the world in any kind of project!
 - ⚡ Fun fact: I´m passionate about video games and a animal lover 🐶🐱🐷 !
 
